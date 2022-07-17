@@ -6,4 +6,4 @@
 Primeira experiência com html e css
 ```
 
-><a href="https://mariodemartini.github.io/projeto-cordel/index.html">Projeto Cordel</a>
+><a href="https://mariodemartini.github.io/projeto-android/index.html">Projeto Android</a>
